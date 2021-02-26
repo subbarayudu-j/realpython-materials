@@ -1,4 +1,4 @@
-aiohttp==3.4.4
+aiohttp==3.7.4
 asks==2.0.0
 astroid==2.0.4
 async-generator==1.10
